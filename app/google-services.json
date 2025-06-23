@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4879955725",
+    "project_id": "caycanh-dd544",
+    "storage_bucket": "caycanh-dd544.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4879955725:android:835bb08f5d70e28928a244",
+        "android_client_info": {
+          "package_name": "com.example.bonsai_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhK--njUz1OHqT1Rk7UZS5wW9eeuyW3po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
